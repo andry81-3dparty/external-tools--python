@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/3_6_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--python
+    version:          3_6_x
+    fetch-to-branch:  3_6_x
